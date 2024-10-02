@@ -15,3 +15,7 @@ implementiram promena vo main
 
 
 implementiram promena vo sec-branch
+
+
+
+implementiram footer tuka
